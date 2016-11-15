@@ -18,11 +18,17 @@ Supports a [`moment.ISO_8601`](http://momentjs.com/docs/#/parsing/special-format
 
 Supports ISO 8601 as the default format.
 
+##### v1.2.0
+
+    YYYY-MM-DDTHH:mm:ssZ
+
+Formats a date/time value in ISO 8601 time zone designator format (`Z` or `+hh:mm` or `-hh:mm`).
+
 ##### All versions
 
     YYYY-MM-DDTHH:mm:ss[Z]
 
-Explicitly formats a date/time value in ISO 8601 Zulu time format.
+Explicitly formats a date/time value in ISO 8601 Zulu time format (`Z`).
 
 ## Links
 
