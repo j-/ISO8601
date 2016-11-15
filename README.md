@@ -33,3 +33,4 @@ Explicitly formats a date/time value in ISO 8601 Zulu time format (`Z`).
 ## Links
 
 * ['ISO 8601' on Wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
+* ['Date and Time Formats' on W3C](https://www.w3.org/TR/NOTE-datetime)
