@@ -1,5 +1,29 @@
 # ISO 8601
 
+## Formatting
+
+### JavaScript
+
+#### Moment.js
+
+##### v2.13.0
+
+Default format returns `Z` as the offset instead of `+00:00` when in UTC mode.
+
+##### v2.7.0
+
+Supports a [`moment.ISO_8601`](http://momentjs.com/docs/#/parsing/special-formats/) constant which represents the ISO 8601 format for parsing date/time strings.
+
+##### v1.5.0
+
+Supports ISO 8601 as the default format.
+
+##### All versions
+
+    YYYY-MM-DDTHH:mm:ss[Z]
+
+Explicitly formats a date/time value in ISO 8601 Zulu time format.
+
 ## Links
 
 * ['ISO 8601' on Wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
